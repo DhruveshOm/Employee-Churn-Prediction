@@ -39,11 +39,11 @@ based on features like satisfaction level, workload, salary, and department.
 
 ## Project Structure
 
--employee-churn-prediction/
--│
--├── HR_comma_sep.csv          # Dataset
--├── employee_churn.ipynb      # Main notebook
--└── README.md                 # Project documentation
+- employee-churn-prediction/
+- │
+- ├── HR_comma_sep.csv          # Dataset
+- ├── employee_churn.ipynb      # Main notebook
+- └── README.md                 # Project documentation
 
 ---
 
